@@ -1,0 +1,14 @@
+{
+    "token": "",
+    "owner_id": 0,
+    "prefix": "_",
+    "guild_name": "Nuked by Asei",
+    "channel_name": "nuked-by-asei",
+    "spam_message": "@everyone Nuked by Asei",
+    "role_name": "Nuked by Asei",
+    "roles_to_create": 35,
+    "channels_to_create": 35,
+    "messages_total": 1500,
+    "dm_delay": 0.1,
+    "ban_reason": "Nuked by Asei"
+}
